@@ -1,0 +1,28 @@
+{
+  "Version": 1,
+  "ItemType": "barricade.wood.cover",
+  "Groups": [
+    {
+      "Textures": {},
+      "Floats": {},
+      "Colors": {
+        "_Color": {},
+        "_SpecColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "r": 0.7941176,
+          "g": 0.7941176,
+          "b": 0.7941176
+        }
+      }
+    }
+  ]
+}
